@@ -16,13 +16,15 @@ The **LTE KPIs Analysis Tool** is designed to simplify the process of comparing 
 ## Screenshots
 
 ### Tool Interface:
-![Tool Interface](xx.png)
+![Tool Interface](https://github.com/Salahbendary/LTE_KPIs_AnaylsisTool/blob/main/Images/InterfaceLTE_KPIsTool.png)
+
 
 ### Comparative Analysis Result:
-![Result](xx.png)
+![Result](https://github.com/Salahbendary/LTE_KPIs_AnaylsisTool/blob/main/Images/Result_LTE_KPIsTool.png)
+
 
 ### Heatmap Visualization Result:
-![Result](xx.png)
+![Result](https://github.com/Salahbendary/LTE_KPIs_AnaylsisTool/blob/main/Images/RouteFieldMeasurementsHeatMap.png)
 ---
 
 ## Author
