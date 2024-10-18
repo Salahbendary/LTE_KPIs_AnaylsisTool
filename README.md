@@ -16,7 +16,7 @@ The **LTE KPIs Analysis Tool** is designed to simplify the process of comparing 
 ## Screenshots
 
 ### Tool Interface:
-![Tool Interface](https://github.com/Salahbendary/LTE_KPIs_AnaylsisTool/blob/main/Images/InterfaceLTE_KPIsTool.png)
+![Tool Interface](https://github.com/Salahbendary/LTE_KPIs_AnaylsisTool/blob/main/Images/InterfaceLTE_KPIs.png)
 
 
 ### Comparative Analysis Result:
